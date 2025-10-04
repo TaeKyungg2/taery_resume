@@ -21,8 +21,8 @@ Anyone can contribute through Issues or Pull Requests, and developers can also u
 
 ## 🚀 How to Use
 1. **Fork** this repository.  
-2. Update `resume.md` with your own information.  
-3. (Optional) Add your profile image or project logos in the `assets/` folder.  
+2. Update `resume.json` with your own information.  
+3. (Optional) Add your profile image or project logos in the `images/` folder.  
 4. Open a Pull Request if you want to contribute improvements back.  
 
 ---
@@ -33,15 +33,6 @@ Anyone can contribute through Issues or Pull Requests, and developers can also u
 - **Improve the template** → Share your markdown style or JSON Resume ideas.  
 
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.  
-
----
-
-## 📂 File Structure
-├── resume.md # Main resume (Markdown version)
-├── resume.json # JSON Resume format (standardized)
-├── assets/ # Images, profile photos, project logos
-├── CONTRIBUTING.md # Contribution guide
-└── LICENSE # MIT License
 
 ---
 
