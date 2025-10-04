@@ -22,12 +22,13 @@ This project is **beginner-friendly** and open to anyone who wants to improve or
 git branch feature/my-improvement
 git checkout feature/my-improvement
   ```
-  
+
 - Edit files (`resume.json`, `README.md`, etc.) as needed.
 - Keep commits clear and descriptive.
 
 ### 3. Test
 - If you modified `resume.json`, check that it is still valid JSON:
+
   ```bash
   npm install -g resume-cli
   resume validate
