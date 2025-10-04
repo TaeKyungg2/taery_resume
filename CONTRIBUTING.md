@@ -17,10 +17,12 @@ This project is **beginner-friendly** and open to anyone who wants to improve or
 
 ### 2. Make Changes
 - Create a new branch for your changes:
+
   ```bash
 git branch feature/my-improvement
 git checkout feature/my-improvement
   ```
+  
 - Edit files (`resume.json`, `README.md`, etc.) as needed.
 - Keep commits clear and descriptive.
 
