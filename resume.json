@@ -1,0 +1,140 @@
+{
+    "basics": {
+        "name": "Taery",
+        "label": "Machine Learning Engineer / Fullstack Developer",
+        "image": "https://example.com/profile.jpg",
+        "email": "tae5431@gmail.com",
+        "phone": "+82 10-0000-0000",
+        "url": "https://www.taery.blog",
+        "summary": "Data scientist and fullstack developer with experience in Flutter, Python, C++, and Rust. Passionate about building AI-powered applications, publishing open-source projects, and creating impactful developer tools.",
+        "location": {
+            "city": "Seoul",
+            "countryCode": "KR"
+        },
+        "profiles": [
+            {
+                "network": "GitHub",
+                "username": "TaeKyungg2",
+                "url": "https://github.com/TaeKyungg2"
+            },
+            {
+                "network": "LinkedIn",
+                "username": "taery",
+                "url": "https://www.linkedin.com/in/kwaktaekyung/"
+            }
+        ]
+    },
+    "work": [],
+    "education": [
+        {
+            "institution": "Computer Academy",
+            "area": "Data Science & Fullstack Development",
+            "studyType": "Certificate Program",
+            "startDate": "2025-04",
+            "endDate": "2025-09",
+            "courses": [
+                "Machine Learning with Scikit-learn",
+                "Fullstack App Development with Flutter & FastAPI"
+            ]
+        }
+    ],
+    "projects": [
+        {
+            "name": "CatLLM (Cat Can Talk)",
+            "description": "A Flutter + FastAPI based chatbot app that transforms text into 'cat-style' responses. Integrated with OpenAI GPT models and LangChain backend.",
+            "highlights": [
+                "Implemented custom text transformations and dynamic chat bubble UI",
+                "Deployed on AWS EC2 with secure API gateway"
+            ],
+            "url": "https://github.com/TaeKyungg2/cat_can_talk"
+        },
+        {
+            "name": "Collatz Conjecture Dataset",
+            "description": "Generated and published a massive Collatz sequence dataset (~110GB raw → ~7GB Parquet compressed).",
+            "highlights": [
+                "Published on Hugging Face with 370+ downloads",
+                "Optimized computation using Rust, C++, and GPU acceleration"
+            ],
+            "url": "https://huggingface.co/datasets/TaeKyungg2/Collatz_conjecture_100m"
+        },
+        {
+            "name": "VS Code Sketchbook Theme",
+            "description": "A custom VS Code theme with Orbit fonts and unique color palettes.",
+            "highlights": [
+                "50+ installs on VS Code Marketplace",
+                "Featured in Flutter Developer Community"
+            ],
+            "url": "https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
+        },
+        {
+            "name": "d3letters",
+            "description": "A Flutter application framework for building text-driven apps with a focus on customization and clean UI design.",
+            "highlights": [
+                "Built a reusable app skeleton using Flutter frontend and FastAPI backend",
+                "Implemented modular design so users can easily replace or customize text content",
+                "Focused on UI consistency, typography, and theming for a polished presentation",
+                "Open-sourced the project to encourage collaboration and showcase personal branding"
+            ],
+            "url": ["https://github.com/TaeKyungg2/d3letter","https://apps.apple.com/us/app/d3letters/id6752533431"]
+        },
+        {
+            "name": "poe chatbot",
+            "description": "Two philosopher chatbots available on the Poe platform",
+            "highlights": [
+                ""
+            ],
+            "url": "https://poe.com/taery"
+        }
+    ],
+    "skills": [
+        {
+            "name": "Programming",
+            "keywords": [
+                "Python",
+                "C/C++",
+                "Rust",
+                "Dart/Flutter",
+                "C#/Unity"
+            ]
+        },
+        {
+            "name": "Machine Learning",
+            "keywords": [
+                "Scikit-learn",
+                "Keras/Tensorflow",
+                "Numpy/Pandas",
+                "LLM"
+            ]
+        },
+        {
+            "name": "Cloud & Infra",
+            "keywords": [
+                "AWS EC2",
+                "Azure",
+                "FastAPI"
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "Korean",
+            "fluency": "Native"
+        },
+        {
+            "language": "English",
+            "fluency": "Intermediate (working proficiency)"
+        }
+    ],
+    "awards": [
+        {
+            "title": "KOI 2013",
+            "date": "2013-09",
+            "awarder": "Korea",
+            "summary": "Seoul Silver prize"
+        }
+    ],
+    "meta": {
+        "version": "v1.0.0",
+        "lastModified": "2025-10-04"
+    }
+}
