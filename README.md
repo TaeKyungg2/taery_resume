@@ -13,6 +13,8 @@ Anyone can contribute through Issues or Pull Requests, and developers can also u
 
 my blog -> https://www.taery.blog
 
+You are welcome to find and add content from my blog and GitHub.
+
 ---
 
 ## 🏷️ Tags
