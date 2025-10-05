@@ -2,7 +2,6 @@
 
 ![Resume](https://img.shields.io/badge/Type-Resume-blue)
 ![Open Source](https://img.shields.io/badge/Model-Open%20Source-brightgreen)
-![Made with Flutter](https://img.shields.io/badge/Framework-Flutter-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
