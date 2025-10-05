@@ -30,7 +30,7 @@ Anyone can contribute through Issues or Pull Requests, and developers can also u
 - **Report typos** → Open an Issue.  
 - **Suggest new sections/tags** → Submit a Pull Request.  
 - **Improve the template** → Share your markdown style or JSON Resume ideas.  
-
+- All other contributions are welcome.😊
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.  
 
 ---
