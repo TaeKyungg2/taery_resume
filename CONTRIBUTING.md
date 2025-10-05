@@ -53,7 +53,7 @@ This project is **beginner-friendly** and open to anyone who wants to improve or
 - Suggest new tags/topics
 - Add new resume sections (projects, skills, etc.)
 - Improve formatting or themes
-- Translate resume into another language (e.g. Korean)
+- Translate resume into another language
 
 ---
 
