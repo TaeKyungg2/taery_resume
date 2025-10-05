@@ -10,6 +10,7 @@
 This repository contains **Taery’s open-source resume/portfolio**.  
 The goal is to make resumes more transparent, collaborative, and reusable.  
 Anyone can contribute through Issues or Pull Requests, and developers can also use this repo as a **resume template**.
+my blog -> https://www.taery.blog
 
 ---
 
