@@ -1,12 +1,12 @@
 {
     "basics": {
-        "name": "Taery",
-        "label": "Machine Learning Engineer / Fullstack Developer",
-        "image": "https://example.com/profile.jpg",
+        "name": "TaeKyung Kwak",
+        "label": "AI/Data Engineer | Fullstack App Developer",
+        "image": "https://github.com/TaeKyungg2/TaeKyungg2/blob/main/assets/%EB%82%98.jpeg?raw=true",
         "email": "tae5431@gmail.com",
-        "phone": "+82 10-0000-0000",
+        "phone": "+82 10-2123-5431",
         "url": "https://www.taery.blog",
-        "summary": "Data scientist and fullstack developer with experience in Flutter, Python, C++, and Rust. Passionate about building AI-powered applications, publishing open-source projects, and creating impactful developer tools.",
+        "summary": "Data/AI engineer and fullstack developer with experience in AI, Flutter, C++, and Rust. Passionate about building AI-powered applications, publishing open-source projects, and creating impactful developer tools.I have experience with Kaggle competitions, app launches, and multiple cloud services.",
         "location": {
             "city": "Seoul",
             "countryCode": "KR"
@@ -19,7 +19,7 @@
             },
             {
                 "network": "LinkedIn",
-                "username": "taery",
+                "username": "TaeKyung Kwak",
                 "url": "https://www.linkedin.com/in/kwaktaekyung/"
             }
         ]
@@ -27,20 +27,22 @@
     "work": [],
     "education": [
         {
-            "institution": "Computer Academy",
-            "area": "Data Science & Fullstack Development",
+            "institution": "Seoul Software Academy(sesac)",
+            "area": "Data/AI developer course",
             "studyType": "Certificate Program",
             "startDate": "2025-04",
             "endDate": "2025-09",
             "courses": [
-                "Machine Learning with Scikit-learn",
-                "Fullstack App Development with Flutter & FastAPI"
+                "Python",
+                "SQL",
+                "Machine Learning",
+                "Deep Learning"
             ]
         }
     ],
     "projects": [
         {
-            "name": "CatLLM (Cat Can Talk)",
+            "name": "Cat Can Talk APP",
             "description": "A Flutter + FastAPI based chatbot app that transforms text into 'cat-style' responses. Integrated with OpenAI GPT models and LangChain backend.",
             "highlights": [
                 "Implemented custom text transformations and dynamic chat bubble UI",
@@ -49,11 +51,12 @@
             "url": "https://github.com/TaeKyungg2/cat_can_talk"
         },
         {
-            "name": "Collatz Conjecture Dataset",
+            "name": "Collatz Conjecture",
             "description": "Generated and published a massive Collatz sequence dataset (~110GB raw → ~7GB Parquet compressed).",
             "highlights": [
-                "Published on Hugging Face with 370+ downloads",
-                "Optimized computation using Rust, C++, and GPU acceleration"
+                "Published on Hugging Face with 500+ downloads",
+                "Optimized computation using Rust, C++, and GPU acceleration",
+                "Draw using Matplotlib"
             ],
             "url": "https://huggingface.co/datasets/TaeKyungg2/Collatz_conjecture_100m"
         },
@@ -62,28 +65,38 @@
             "description": "A custom VS Code theme with Orbit fonts and unique color palettes.",
             "highlights": [
                 "50+ installs on VS Code Marketplace",
-                "Featured in Flutter Developer Community"
+                "Featured in Flutter Developer Community, Linkedin"
             ],
             "url": "https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
         },
         {
-            "name": "d3letters",
+            "name": "d3letters APP",
             "description": "A Flutter application framework for building text-driven apps with a focus on customization and clean UI design.",
             "highlights": [
-                "Built a reusable app skeleton using Flutter frontend and FastAPI backend",
                 "Implemented modular design so users can easily replace or customize text content",
-                "Focused on UI consistency, typography, and theming for a polished presentation",
-                "Open-sourced the project to encourage collaboration and showcase personal branding"
+                "Focused on UI consistency, typography, and theming for a polished presentation"
             ],
-            "url": ["https://github.com/TaeKyungg2/d3letter","https://apps.apple.com/us/app/d3letters/id6752533431"]
+            "url": ["https://github.com/TaeKyungg2/d3letter"," https://apps.apple.com/us/app/d3letters/id6752533431"]
         },
         {
             "name": "poe chatbot",
             "description": "Two philosopher chatbots available on the Poe platform",
             "highlights": [
-                ""
+                "Socrates",
+                "Marcvs Avrelivs"
             ],
             "url": "https://poe.com/taery"
+        },
+        {
+            "name": "my blog",
+            "description": "my blog.",
+            "highlights": [
+                "Azure static web app",
+                "Firebase",
+                "Flutter",
+                "Zola"
+            ],
+            "url": "https://taery.blog"
         }
     ],
     "skills": [
@@ -109,9 +122,10 @@
         {
             "name": "Cloud & Infra",
             "keywords": [
-                "AWS EC2",
+                "AWS",
                 "Azure",
-                "FastAPI"
+                "FastAPI",
+                "Firebase"
             ]
         }
     ],
