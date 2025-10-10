@@ -76,7 +76,10 @@
                 "Implemented modular design so users can easily replace or customize text content",
                 "Focused on UI consistency, typography, and theming for a polished presentation"
             ],
-            "url": ["https://github.com/TaeKyungg2/d3letter"," https://apps.apple.com/us/app/d3letters/id6752533431"]
+            "url": [
+                "https://github.com/TaeKyungg2/d3letter",
+                " https://apps.apple.com/us/app/d3letters/id6752533431"
+            ]
         },
         {
             "name": "poe chatbot",
@@ -146,6 +149,14 @@
             "date": "2013-09",
             "awarder": "Korea",
             "summary": "Seoul Silver prize"
+        }
+    ],
+    "certificates": [
+        {
+            "name": "Information Processing Craftsman",
+            "date": "2025-9-30",
+            "issuer": "National Technical Qualification",
+            "url": "https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921"
         }
     ],
     "meta": {
