@@ -154,8 +154,16 @@
                 "Azure",
                 "FastAPI",
                 "Firebase",
-                "GitHub Action",
-                "Elice cloud, Google colab, Kaggle, Hugging face"
+                "GitHub Action"
+            ]
+        },
+        {
+            "name": "Tools&Platforms",
+            "keywords": [
+                "Elice cloud",
+                "Google colab",
+                "Kaggle",
+                "Hugging face"
             ]
         }
     ],
