@@ -42,16 +42,16 @@
     ],
     "projects": [
         {
-            "name": "Cat Can Talk APP",
+            "name": "Cat Can Talk",
             "description": "A Flutter + FastAPI based chatbot app that transforms text into 'cat-style' responses. Integrated with OpenAI GPT models and LangChain backend.",
             "highlights": [
                 "Implemented custom text transformations and dynamic chat bubble UI",
-                "Deployed on AWS EC2 with secure API gateway"
+                "Deployed on AWS EC2, Firebase."
             ],
-            "url": "https://github.com/TaeKyungg2/cat_can_talk"
+            "url": "https://taery-demo.web.app/"
         },
         {
-            "name": "Collatz Conjecture",
+            "name": "Collatz Conjecture project",
             "description": "Generated and published a massive Collatz sequence dataset (~110GB raw → ~7GB Parquet compressed).",
             "highlights": [
                 "Published on Hugging Face with 500+ downloads",
@@ -70,7 +70,7 @@
             "url": "https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
         },
         {
-            "name": "d3letters APP",
+            "name": "d3letters",
             "description": "A Flutter application framework for building text-driven apps with a focus on customization and clean UI design.",
             "highlights": [
                 "Implemented modular design so users can easily replace or customize text content",
@@ -106,12 +106,13 @@
                 "Program for visualizing Keras, data structures/algorithms. I plan to use Flutter, Python packages, and Matplotlib.",
                 "To achieve both design and SEO, I used Flutter and HTML."
             ],
-            "url": "https://taery.blog"
+            "url": "https://www.taery.blog"
         }
     ],
     "skills": [
         {
             "name": "Programming",
+            "level": "Master",
             "keywords": [
                 "Python",
                 "C/C++",
