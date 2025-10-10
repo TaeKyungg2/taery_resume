@@ -21,6 +21,11 @@
                 "network": "LinkedIn",
                 "username": "TaeKyung Kwak",
                 "url": "https://www.linkedin.com/in/kwaktaekyung/"
+            },
+            {
+                "network": "Blog",
+                "username": "Taery",
+                "url": "https://www.taery.blog"
             }
         ]
     },
