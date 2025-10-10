@@ -122,7 +122,7 @@
             "highlights": [
                 "Developing __visualizing Keras, data structures/algorithms__. I plan to use Flutter, Python packages, and Matplotlib.",
                 "Developing __store automatic payment program__. It can be installed as an app on tablets, and custom designs are provided for each store. Flutter and TossApi are planned to be used.",
-                "I felt uncomfortable with the unintuitive grammar of the pandas, and I got to know the Polars. I am looking for and studying the parts that can be __contributed in the Polars__ > Numpi zero-copy function, ____array____."
+                "I felt uncomfortable with the unintuitive grammar of the pandas, and I got to know the Polars. I am looking for and studying the parts that can be __contributed in the Polars__ > Numpi zero-copy function, `__array__`."
             ],
             "url": "https://book.taery.blog/my-projects"
         }
