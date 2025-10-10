@@ -43,6 +43,16 @@
                 "Machine Learning",
                 "Deep Learning"
             ]
+        },
+        {
+            "institution": "Daeyoung High School",
+            "area": "High School",
+            "studyType": " High School",
+            "startDate": "2017-03",
+            "endDate": "2020-02",
+            "courses": [
+                "Science track"
+            ]
         }
     ],
     "projects": [
