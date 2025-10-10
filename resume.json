@@ -153,14 +153,14 @@
                 "AWS",
                 "Azure",
                 "FastAPI",
-                "Firebase"
+                "Firebase",
+                "Elice cloud",
+                "Google colab"
             ]
         },
         {
             "name": "Tools & Platforms",
             "keywords": [
-                "Elice cloud",
-                "Google colab",
                 "Kaggle",
                 "Hugging face",
                 "GitHub Action"
