@@ -43,10 +43,11 @@
     "projects": [
         {
             "name": "Cat Can Talk",
-            "description": "A Flutter + FastAPI based chatbot app that transforms text into 'cat-style' responses. Integrated with OpenAI GPT models and LangChain backend.",
+            "description": "A Flutter + FastAPI based chatbot app, can see a real-time animated GIF of a cat's emotions.",
             "highlights": [
-                "Implemented custom text transformations and dynamic chat bubble UI",
-                "Deployed on AWS EC2, Firebase."
+                "Used Upstage's Solar Pro 2. It has good performance and cheap API.",
+                "Deployed on AWS EC2, Firebase.",
+                "Used nginx, certbot for https authentication."
             ],
             "url": "https://taery-demo.web.app/"
         },
