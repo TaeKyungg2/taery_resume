@@ -72,10 +72,10 @@
         },
         {
             "name": "d3letters",
-            "description": "A Flutter application framework for building text-driven apps with a focus on customization and clean UI design.",
+            "description": "App that comes with 3 letters a day.",
             "highlights": [
-                "Implemented modular design so users can easily replace or customize text content",
-                "Focused on UI consistency, typography, and theming for a polished presentation"
+                "The letter is a good sentence. It is excerpted from sentences in CBT, philosophy, literature, etc.",
+                "Using GitHub Gist, letter maintenance is possible without updating the app."
             ],
             "url": [
                 " https://apps.apple.com/us/app/d3letters/id6752533431"
