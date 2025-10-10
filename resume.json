@@ -153,8 +153,7 @@
                 "AWS",
                 "Azure",
                 "FastAPI",
-                "Firebase",
-                "GitHub Action"
+                "Firebase"
             ]
         },
         {
@@ -163,7 +162,8 @@
                 "Elice cloud",
                 "Google colab",
                 "Kaggle",
-                "Hugging face"
+                "Hugging face",
+                "GitHub Action"
             ]
         }
     ],
