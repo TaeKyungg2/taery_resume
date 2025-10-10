@@ -6,7 +6,7 @@
         "email": "tae5431@gmail.com",
         "phone": "+82 10-2123-5431",
         "url": "https://www.taery.blog",
-        "summary": "Data/AI engineer and fullstack developer with experience in AI, Flutter, C++, and Rust. Passionate about building AI-powered applications, publishing open-source projects, and creating impactful developer tools.I have experience with Kaggle competitions, app launches, and multiple cloud services.",
+        "summary": "I enjoy working with AI and coding, with particular interest in AI/Data, Flutter, and Rust. For me, development does not end at implementation — I value understanding concepts deeply and applying them to real services. I am growing as a Machine Learning Engineer and AI-driven service developer, with experience in app launches, dataset publication, VS Code extension development, hardware optimization, multi-cloud environments, and offline team collaboration.",
         "location": {
             "city": "Seoul",
             "countryCode": "KR"
@@ -125,7 +125,8 @@
                 "AWS",
                 "Azure",
                 "FastAPI",
-                "Firebase"
+                "Firebase",
+                "Elice clude, Google colab, Kaggle, Hugging face"
             ]
         }
     ],
