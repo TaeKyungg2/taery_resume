@@ -70,7 +70,7 @@
             "name": "Collatz Conjecture project",
             "description": "Generated and published a 100m Collatz sequence dataset.",
             "highlights": [
-                "Published on Hugging Face with 500+ downloads, Graph image page 1000+ view",
+                "Published on Hugging Face with 500+ downloads, Graph page viewed 1000+ times",
                 "Optimized computation using Rust, C++, and Cuda",
                 "Draw graph using Matplotlib"
             ],
