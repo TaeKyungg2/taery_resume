@@ -60,7 +60,7 @@
             "name": "Cat Can Talk",
             "description": "A Flutter + FastAPI based chatbot app, can see a real-time animated GIF of a cat's emotions.",
             "highlights": [
-                "Used Upstage's Solar Pro 2. It has good performance and cheap API.",
+                "Leveraged Upstage Solar Pro 2 for good performance and a low-cost API",
                 "Deployed on AWS EC2, Firebase.",
                 "Used nginx, certbot for https authentication."
             ],
