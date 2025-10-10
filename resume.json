@@ -94,10 +94,8 @@
             "name": "my blog",
             "description": "my blog.",
             "highlights": [
-                "Azure static web app",
-                "Firebase",
-                "Flutter",
-                "Zola"
+                "Azure static web app, Firebase, Flutter, Zola",
+                "To achieve both design and SEO, I used Flutter and HTML."
             ],
             "url": "https://taery.blog"
         }
@@ -129,6 +127,7 @@
                 "Azure",
                 "FastAPI",
                 "Firebase",
+                "GitHub Action",
                 "Elice clude, Google colab, Kaggle, Hugging face"
             ]
         }
