@@ -77,7 +77,6 @@
                 "Focused on UI consistency, typography, and theming for a polished presentation"
             ],
             "url": [
-                "https://github.com/TaeKyungg2/d3letter",
                 " https://apps.apple.com/us/app/d3letters/id6752533431"
             ]
         },
@@ -91,10 +90,20 @@
             "url": "https://poe.com/taery"
         },
         {
-            "name": "my blog",
+            "name": "Blog with Flutter and SEO",
             "description": "my blog.",
             "highlights": [
                 "Azure static web app, Firebase, Flutter, Zola",
+                "To achieve both design and SEO, I used Flutter and HTML.",
+                "Flutter, Firebase, and Azure have been connected, and details are under development."
+            ],
+            "url": "https://fir-flutter-taery.web.app/"
+        },
+        {
+            "name": "project plan",
+            "description": "This is a planned project.",
+            "highlights": [
+                "Program for visualizing Keras, data structures/algorithms. I plan to use Flutter, Python packages, and Matplotlib.",
                 "To achieve both design and SEO, I used Flutter and HTML."
             ],
             "url": "https://taery.blog"
