@@ -2,7 +2,6 @@
 
 ![Resume](https://img.shields.io/badge/Type-Resume-blue)
 ![Open Source](https://img.shields.io/badge/Model-Open%20Source-brightgreen)
-![Made with Flutter](https://img.shields.io/badge/Framework-Flutter-blue)
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow)
 
 ---
@@ -11,6 +10,10 @@
 This repository contains **Taery’s open-source resume/portfolio**.  
 The goal is to make resumes more transparent, collaborative, and reusable.  
 Anyone can contribute through Issues or Pull Requests, and developers can also use this repo as a **resume template**.
+
+my blog -> https://www.taery.blog
+
+You are welcome to find and add content from my blog and GitHub.
 
 ---
 
@@ -31,7 +34,8 @@ Anyone can contribute through Issues or Pull Requests, and developers can also u
 - **Report typos** → Open an Issue.  
 - **Suggest new sections/tags** → Submit a Pull Request.  
 - **Improve the template** → Share your markdown style or JSON Resume ideas.  
-
+- All other contributions are welcome.😊
+- 
 👉 See [CONTRIBUTING.md](CONTRIBUTING.md) for details.  
 
 ---
