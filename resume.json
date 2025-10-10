@@ -6,7 +6,7 @@
         "email": "tae5431@gmail.com",
         "phone": "+82 10-2123-5431",
         "url": "https://www.taery.blog",
-        "summary": "I enjoy working with AI and coding, with particular interest in AI/Data, Flutter, and Rust. <br>For me, development does not end at implementation — I value understanding concepts deeply and applying them to real services. I am growing as a Machine Learning Engineer and AI-driven service developer, with experience in app launches, dataset publication, VS Code extension development, hardware optimization, multi-cloud environments, and offline team collaboration.",
+        "summary": "I enjoy working with AI and coding, with particular interest in AI/Data, Flutter, and Rust. For me, development does not end at implementation — I value understanding concepts deeply and applying them to real services. I am growing as a Machine Learning Engineer and AI-driven service developer, with experience in app launches, dataset publication, VS Code extension development, hardware optimization, multi-cloud environments, and offline team collaboration.",
         "location": {
             "city": "Seoul",
             "countryCode": "KR"
@@ -58,7 +58,7 @@
                 "Optimized computation using Rust, C++, and GPU acceleration",
                 "Draw using Matplotlib"
             ],
-            "url": "https://huggingface.co/datasets/TaeKyungg2/Collatz_conjecture_100m"
+            "url": "https://huggingface.co/datasets/Taery/Collatz_conjecture_100m"
         },
         {
             "name": "VS Code Sketchbook Theme",
