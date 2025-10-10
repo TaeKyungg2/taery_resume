@@ -104,9 +104,9 @@
             "description": "This is a planned project.",
             "highlights": [
                 "Program for visualizing Keras, data structures/algorithms. I plan to use Flutter, Python packages, and Matplotlib.",
-                "To achieve both design and SEO, I used Flutter and HTML."
+                "Developing a store automatic payment program. It can be installed as an app on tablets, and custom designs are provided for each store. Flutter and TossApi are planned to be used."
             ],
-            "url": "https://www.taery.blog"
+            "url": "https://book.taery.blog/my-projects"
         }
     ],
     "skills": [
