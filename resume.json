@@ -21,11 +21,6 @@
                 "network": "LinkedIn",
                 "username": "TaeKyung Kwak",
                 "url": "https://www.linkedin.com/in/kwaktaekyung/"
-            },
-            {
-                "network": "Blog",
-                "username": "Taery",
-                "url": "https://www.taery.blog"
             }
         ]
     },
@@ -33,7 +28,7 @@
     "education": [
         {
             "institution": "Seoul Software Academy(sesac)",
-            "area": "Data/AI developer course (5month)",
+            "area": "Data/AI developer Training Program (5month)",
             "studyType": "Certificate Program",
             "startDate": "2025-04",
             "endDate": "2025-09",
@@ -70,6 +65,7 @@
             "name": "Collatz Conjecture project",
             "description": "Generated and published a 100m Collatz sequence dataset.",
             "highlights": [
+                "Mathematical puzzle that has not been solved for a long time, even if it is a simple problem.",
                 "Published on Hugging Face with 500+ downloads, Graph page viewed 1000+ times",
                 "Optimized computation using Rust, C++, and Cuda",
                 "Draw graph using Matplotlib"
@@ -182,7 +178,7 @@
             "title": "Korean Olympiad in Informatics 2013",
             "date": "2013-09",
             "awarder": "Korea",
-            "summary": "Seoul Silver prize"
+            "summary": "Seoul Regional Silver Prize"
         }
     ],
     "certificates": [
@@ -195,6 +191,6 @@
     ],
     "meta": {
         "version": "v1.0.0",
-        "lastModified": "2025-10-10"
+        "lastModified": "2025-10-13"
     }
 }
