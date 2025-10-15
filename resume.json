@@ -104,7 +104,7 @@
             "name": "My Blog",
             "description": "Moving from Gitbook to a site I developed myself.",
             "highlights": [
-                "3,000+ visitors per month in Gitbook",
+                "3,000+ view per month in Gitbook",
                 "I developed my own blog for freedom.",
                 "Use Azure static web app, Firebase, Flutter, Zola, HTML",
                 "To achieve both design and SEO, use both Flutter/HTML"
