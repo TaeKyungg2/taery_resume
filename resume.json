@@ -101,14 +101,13 @@
             "url": "https://poe.com/taery"
         },
         {
-            "name": "Blog with Flutter and SEO",
+            "name": "My Blog",
             "description": "Moving from Gitbook to a site I developed myself.",
             "highlights": [
                 "3,000+ visitors per month in Gitbook",
                 "I developed my own blog for freedom.",
-                "Azure static web app, Firebase, Flutter, Zola",
-                "To achieve both design and SEO, I used Flutter and HTML.",
-                "Flutter, Firebase, and Azure have been connected, and details are under development."
+                "Use Azure static web app, Firebase, Flutter, Zola, HTML",
+                "To achieve both design and SEO, use both Flutter/HTML"
             ],
             "url": "https://fir-flutter-taery.web.app/"
         },
