@@ -5,7 +5,7 @@
         "image": "https://raw.githubusercontent.com/TaeKyungg2/TaeKyungg2/main/assets/나.jpeg",
         "email": "tae5431@gmail.com",
         "phone": "+82 10-2123-5431",
-        "url": "https://www.taery.blog",
+        "url": "https://taery.blog",
         "summary": "Enjoy working with AI and Coding, with particular interest in AI/Data, Flutter, and Rust.\n Development does not end at implementation — Value understanding concepts deeply and applying them to real services.\n Growing as a Machine Learning Engineer and AI-driven service developer, with experience in App launches, Dataset publication, Hardware optimization, and Offline team collaboration.",
         "location": {
             "city": "Seoul",
@@ -107,7 +107,8 @@
                 "3,000+ view per month in Gitbook",
                 "I developed my own blog for freedom.",
                 "Use Azure static web app, Firebase, Flutter, Zola, HTML",
-                "To achieve both design and SEO, use both Flutter/HTML"
+                "To achieve both design and SEO, use both Flutter/HTML",
+                "Designed as a responsive widget that looks great on both computer and mobile environments."
             ],
             "url": "https://fir-flutter-taery.web.app/"
         },
