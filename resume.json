@@ -82,25 +82,6 @@
             "url": "https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
         },
         {
-            "name": "d3letters",
-            "description": "App that comes with 3 letters a day.",
-            "highlights": [
-                "The letter is a good sentence. It is excerpted from sentences in CBT, philosophy, literature, etc.",
-                "Using GitHub Gist, letter maintenance is possible without updating the app."
-            ],
-            "url": [
-                " https://apps.apple.com/us/app/d3letters/id6752533431"
-            ]
-        },
-        {
-            "name": "poe chatbot",
-            "description": "Two philosopher chatbots available on the Poe platform",
-            "highlights": [
-                "Socrates, Marcvs Avrelivs persona."
-            ],
-            "url": "https://poe.com/taery"
-        },
-        {
             "name": "My Blog",
             "description": "Moving from Gitbook to a site I developed myself.",
             "highlights": [
@@ -112,11 +93,20 @@
             "url": "https://fir-flutter-taery.web.app/"
         },
         {
+            "name": "mini project",
+            "description": "mini",
+            "highlights": [
+                "poe chatbot - Two philosopher chatbots available on the Poe platform, Socrates, Marcvs Avrelivs persona. https://poe.com/taery",
+                "deletter - App that comes with 3 letters a day. Flutter, Gitgub Gist https://apps.apple.com/us/app/d3letters/id6752533431"
+            ],
+            "url": "https://taery.blog"
+        },
+        {
             "name": "project plan",
             "description": "This is a planned project.",
             "highlights": [
                 "Developing __visualizing Keras, data structures/algorithms__. I plan to use Flutter, Python packages, and Matplotlib.",
-                "Developing __store automatic payment program__. It can be installed as an app on tablets, and custom designs are provided for each store. Flutter and TossApi are planned to be used."
+                "Unity in Openai app sdk. Use three.js, gltf."
             ],
             "url": "https://taery.blog"
         }
