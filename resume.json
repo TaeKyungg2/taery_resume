@@ -73,15 +73,6 @@
             "url": "https://polite-bush-02da9d200.1.azurestaticapps.net/index.html"
         },
         {
-            "name": "VS Code Sketchbook Theme",
-            "description": "A custom VS Code theme with unique color palettes.",
-            "highlights": [
-                "70+ installs on VS Code Marketplace",
-                "Featured in Flutter Developer Community, Linkedin"
-            ],
-            "url": "https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
-        },
-        {
             "name": "My Blog",
             "description": "Moving from Gitbook to a site I developed myself.",
             "highlights": [
@@ -90,14 +81,16 @@
                 "Use Azure static web app, Firebase, Flutter, Zola, HTML to achieve both design and SEO",
                 "Responsive widget that looks great on both computer and mobile."
             ],
-            "url": "https://fir-flutter-taery.web.app/"
+            "url": "https://taery.blog"
         },
         {
             "name": "mini project",
             "description": "mini",
             "highlights": [
                 "poe chatbot - Two philosopher chatbots available on the Poe platform, Socrates, Marcvs Avrelivs persona. https://poe.com/taery",
-                "deletter - App that comes with 3 letters a day. Flutter, Gitgub Gist https://apps.apple.com/us/app/d3letters/id6752533431"
+                "deletter - App that comes with 3 letters a day. Flutter, Gitgub Gist https://apps.apple.com/us/app/d3letters/id6752533431",
+                "this resume - resume-schema(json), aws static web",
+                "VS Code Sketchbook Theme - 80+ installs on VS Code Marketplace Featured in Flutter Developer Community, Linkedin. https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
             ],
             "url": "https://taery.blog"
         },
@@ -105,8 +98,8 @@
             "name": "project plan",
             "description": "This is a planned project.",
             "highlights": [
-                "Developing __visualizing Keras, data structures/algorithms__. I plan to use Flutter, Python packages, and Matplotlib.",
-                "Unity in Openai app sdk. Use three.js, gltf."
+                "Developing __visualizing Keras, data structures/algorithms__. Plan to use Flutter, Python packages.",
+                "Unity in Openai app sdk. Use three.js, gltf. https://github.com/TaeKyungg2/unity_openai_app"
             ],
             "url": "https://taery.blog"
         }
@@ -161,20 +154,18 @@
             "fluency": "Intermediate (working proficiency)"
         }
     ],
-    "awards": [
-        {
-            "title": "Korean Olympiad in Informatics 2013",
-            "date": "2013-09",
-            "awarder": "Korea",
-            "summary": "Seoul Regional Silver Prize"
-        }
-    ],
     "certificates": [
         {
             "name": "Information Processing Craftsman",
             "date": "2025-9-30",
             "issuer": "National Technical Qualification(Korea)",
             "url": "https://www.q-net.or.kr/crf005.do?id=crf00503&jmCd=6921"
+        },
+        {
+            "name": "Korean Olympiad in Informatics 2013 - Seoul Regional Silver Prize",
+            "date": "2013-09",
+            "issuer": "Korea",
+            "summary": "Algorithm compition"
         }
     ],
     "meta": {
