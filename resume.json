@@ -88,7 +88,7 @@
             "description": "mini",
             "highlights": [
                 "poe chatbot - Two philosopher chatbots available on the Poe platform, Socrates, Marcvs Avrelivs persona. https://poe.com/taery",
-                "deletter - App that comes with 3 letters a day. Flutter, Gitgub Gist https://apps.apple.com/us/app/d3letters/id6752533431",
+                "d3letter - App that comes with 3 letters a day. Flutter, Gitgub Gist https://apps.apple.com/us/app/d3letters/id6752533431",
                 "this resume - resume-schema(json), azure static web",
                 "VS Code Sketchbook Theme - 80+ installs on VS Code Marketplace Featured in Flutter Developer Community, Linkedin. https://marketplace.visualstudio.com/items?itemName=taery.sketchbook-color-theme"
             ],
